@@ -95,8 +95,10 @@
 
 		/* Акценты */
 		--theme-accent-base: var(--bg-hue) 53% 27%; /* Основной акцентный цвет */
-		--theme-accent-one: var(--bg-hue) 53% 27%; /* Первый дополнительный акцентный цвет */
-		--theme-accent-two: 351deg 66% 48%; /* Второй дополнительный акцентный цвет */
+		/* --theme-accent-one: var(--bg-hue) 53% 27%; */
+		/* --theme-accent-two: 351deg 66% 48%;  */
+		--theme-accent-one: 101deg 23% 45%; 
+		--theme-accent-two: 120deg 29% 66%; 
 		
 		/* Вариант */ /* --theme-accent-two: 344deg 63% 45%; */
 		
@@ -157,8 +159,11 @@
 
 		/* Акценты */
 		--theme-accent-base: var(--hue) 10% 85%; 
-		--theme-accent-one: 50deg 49% 80%; /* Первый дополнительный акцентный цвет */
-		--theme-accent-two: 50deg 72% 63%; /* 50deg 72% 63% */ /* Второй дополнительный акцентный цвет (был 45deg 80% 50%) */
+		/* --theme-accent-one: 50deg 49% 80%;  */
+		--theme-accent-one: 101deg 23% 45%; 
+		/* --theme-accent-two: 50deg 72% 63%;  */
+		--theme-accent-two: 120deg 29% 66%; 
+
 		/* --theme-accent-two: 0deg 75% 89%; */
 		/* --theme-accent-base: var(--hue) 97% 71%; */
 
